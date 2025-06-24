@@ -9,7 +9,7 @@ Chen, K., X. Li, M. M. Weaver, S. A. Christiansen, A. L. Horton, and M. E. Mann 
 Files descriptions
 -----------------
 Data (located in the noreasters/ directory):
-* `YYYY_tracks_final.csv`  &rarr; Summary of nor'easters (1940–2025), identified based on the methodology outlined in [Noreaster_tracking_workflow.pdf](Nor-easters/Noreaster_tracking_workflow.pdf)
+* `YYYY_tracks_final.csv`  &rarr; Summary of nor'easters (1940–2025), identified based on the methodology outlined in [Noreaster_tracking_workflow.pdf](Noreaster_tracking_workflow.pdf)
 
 Code (located in the scripts/ directory):
 * `Fig2_spaghetti_plot_trajectories.ipynb` &rarr; Generates the composite plot of nor’easter tracks for 1940–2025 (Fig. 2) using the summary dataset.
