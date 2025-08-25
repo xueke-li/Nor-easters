@@ -1,10 +1,10 @@
 Nor'easters
 ==============================================
-This repository contains the data and code necessary to reproduce the results presented in: Chen et al. (2025), The intensification of the strongest nor’easters.
+This repository contains the data and code necessary to reproduce the results presented in: <a href="https://www.pnas.org/doi/10.1073/pnas.2504482122"> Chen et al. (2025), The intensification of the strongest nor’easters</a>, Proceedings of the National Academy of Sciences, 122 (29), e2510029122.
 
 Related Publication
 -------------------
-Chen, K., X. Li, M. M. Weaver, S. A. Christiansen, A. L. Horton, and M. E. Mann (2025), The intensification of the strongest nor’easters.
+Chen, K., X. Li, M. M. Weaver, S. A. Christiansen, A. L. Horton, and M. E. Mann (2025), The intensification of the strongest nor’easters, Proceedings of the National Academy of Sciences 122 (29) e2510029122, <a href="https://www.pnas.org/doi/10.1073/pnas.2504482122">https://doi.org/10.1073/pnas.2504482122</a>.
 
 Files descriptions
 -----------------
