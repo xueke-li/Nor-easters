@@ -1,6 +1,6 @@
 Nor'easters
 ==============================================
-This repository contains the data and code necessary to reproduce the results presented in: <a href="https://www.pnas.org/doi/10.1073/pnas.2504482122"> Chen et al. (2025), The intensification of the strongest nor’easters</a>, Proceedings of the National Academy of Sciences, 122 (29), e2510029122.
+This repository contains the data and code necessary to reproduce the results presented in: <a href="[https://www.pnas.org/doi/10.1073/pnas.2504482122](https://www.pnas.org/doi/10.1073/pnas.2510029122)"> Chen et al. (2025), The intensification of the strongest nor’easters</a>, Proceedings of the National Academy of Sciences, 122 (29), e2510029122.
 
 Related Publication
 -------------------
